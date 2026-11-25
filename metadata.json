@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Personal AI voice and chat assistant (Jarvis) supporting Bengali and English, female voice TTS, background listening, coding help, and Android device actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

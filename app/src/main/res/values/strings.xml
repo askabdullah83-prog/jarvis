@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="accessibility_service_label">Jarvis Device Control</string>
+    <string name="accessibility_service_description">Allows Jarvis AI assistant to go Home, go Back, open Recents, open Notifications/Quick Settings, and help control apps by voice.</string>
+    <string name="nav_voice">Core</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_actions">Control</string>
+    <string name="nav_access">Access</string>
+    <string name="jarvis_greeting_bn">হ্যালো! আমি জার্ভিস, আপনার পার্সোনাল AI অ্যাসিস্ট্যান্ট। বলুন, কী সাহায্য করতে পারি?</string>
+    <string name="jarvis_greeting_en">Hello! I am Jarvis, your personal AI assistant. How can I help you today?</string>
+    <string name="bg_service_channel_name">Jarvis Standby Wake</string>
+    <string name="bg_service_channel_desc">Keeps Jarvis in standby mode and wakes up immediately when you say "হ্যালো জার্ভিস" or "Hello Jarvis".</string>
+    <string name="bg_service_title">Jarvis Standby Armed</string>
+    <string name="bg_service_subtitle">Say "হ্যালো জার্ভিস" or "Hello Jarvis" to activate</string>
+    <string name="action_ask_now">Wake Jarvis</string>
+    <string name="action_stop">Turn Off</string>
+</resources>
